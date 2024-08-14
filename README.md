@@ -52,3 +52,5 @@ Once you input the number of players, the game will begin.
 When it is your turn, the dice will roll and if you wish
 to roll again, type 'y' or 'yes' into the input box.
 Otherwise, type 'n' or 'no' if you wish to end your turn.
+
+*Copyright (c) 2022 Taylor Smith*

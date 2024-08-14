@@ -53,4 +53,18 @@ When it is your turn, the dice will roll and if you wish
 to roll again, type 'y' or 'yes' into the input box.
 Otherwise, type 'n' or 'no' if you wish to end your turn.
 
+## Creator's Note
+This project was made in my freshman year of college as my final project for my Computing course; it was my first time creating a visual
+interactive program using Python so, while the project does not look as visually appealing as it could be, I am still very proud of it.
+It was also my first time working on a program in a group setting, where each member had their own specific tasks to complete which
+came into one whole project.<br><br>
+The project required us to:
+- Display the rules of the game and a set of instructions on how to use your program
+- Display a set of menu options for the various things your players can do
+- Make use of conditionals and loops effectively
+- Organize code by taking advantage of functions (including docstrings)
+- Use file I/O in a meaningful way
+- Use turtle graphics to animate something
+- Incorporate something to make the project stand out from others
+
 *Copyright (c) 2022 Taylor Smith*

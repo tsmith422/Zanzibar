@@ -1,14 +1,11 @@
-""" By submitting this assignment, all team members agree to the following:
- "Aggies do not lie, cheat, or steal, or tolerate those who do"
- "I have not given or received any unauthorized aid on this assignment"
-
+"""
 Names: Connor Jones-Hebert
        Joslyn Perez
        Malik Watkins
        Taylor Smith
-Section: ENGR 102 | 538
 Assignment: Lab Project | Zanzibar
-Date: 28 11 2022 """
+Date: 28 11 2022
+"""
 import random as r
 import time
 import tkinter.font as font
